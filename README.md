@@ -1,0 +1,1 @@
+Un Buscaminas hecho con C++ y la libreria de Raylib. Para ejecutarlo es tan facil como darle doble click al archivo buscaminas.exe y asegurarse de que los sprites esten en el mismo directorio. Tambien adjunto el codigo fuente porque si, yo que se.
